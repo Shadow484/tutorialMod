@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mossy_diorite_bricks",
+  "ingredients": [
+    {
+      "item": "tutorialmod:diorite_bricks"
+    },
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:mossy_diorite_bricks"
+  }
+}

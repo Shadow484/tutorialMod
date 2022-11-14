@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "tutorialmod:diorite_bricks"
+  },
+  "result": "tutorialmod:cracked_diorite_bricks"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mossy_andesite_bricks",
+  "ingredients": [
+    {
+      "item": "tutorialmod:andesite_bricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:mossy_andesite_bricks"
+  }
+}
